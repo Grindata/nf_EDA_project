@@ -1,7 +1,7 @@
 ## 1. Information on King County
 source: (https://www.census.gov/quickfacts/kingcountywashington) 
 
-![assessors_social-1.jpg](attachment:a4ec07fc-8f9d-4116-b245-5150e29364e3.jpg)   
+[![KC](https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg)]
 
 King County is located in Washington, US. The population was 2,252,782 in the 2019 census estimate, making it the most populous county in Washington, and the 12th-most populous in the United States. The county seat is Seattle, also the state's most populous city.
 
