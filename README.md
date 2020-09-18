@@ -5,13 +5,13 @@ dataset (available at [Kaggle](https://www.kaggle.com/harlfoxem/housesalespredic
 
 The EDA is not exhaustive but oriented at a house buyer's stakeholder point of view and addresses particular questions and interests arising when buying a house.
 
-In the MLR part, I try to predict the house prices in King County using only simple and multiple linear regression models. 
+In the MLR part, I try to predict the house prices in King County using only multiple linear regression models. 
 
 ### Table of content
 
 1. [00_Context_Information](https://github.com/PsychOpilio/nf_EDA_project/blob/master/00_Context_Information.md): information on King County and its population as well as variable descriptions 
-2. 01_Data_Cleansing.ipynb: Code for data preparation and cleansing
-3. 02_EDA.ipynb: Code for exploratory data analysis with regard to particular questions
-4. 03_Regression_model.ipynb: Code for all iterations of multiple linear regression modelling
+2. [01_Data_Cleansing](https://github.com/PsychOpilio/nf_EDA_project/blob/master/01_Data_Cleansing.ipynb): Code for data preparation and cleansing
+3. [02_EDA](https://github.com/PsychOpilio/nf_EDA_project/blob/master/02_EDA.ipynb): Code for exploratory data analysis with regard to particular questions
+4. [03_Regression_model](https://github.com/PsychOpilio/nf_EDA_project/blob/master/03_Regression_model.ipynb): Code for all iterations of multiple linear regression modelling
 
 
